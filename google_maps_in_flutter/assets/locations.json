@@ -1,0 +1,91 @@
+{
+    "offices": [
+        {
+            "address": "gasparluken Hermosillo ",
+            "id": "Ejemplo1",
+            "image": "https://lh3.googleusercontent.com/jTf0m2s5A2qS25ArE3x6Tl1KXtpv3JmHIfcBuw7f-JHsTR0tMiyUVeHO1wBeJ2eEGcAWUbTe3b9B8iP8wyL-TROS5zxmMofMHsnf",
+            "lat": 29.126328040473147, 
+            "lng": -111.03333357338774,
+            "name": "Varsovia",
+            "phone": "+48 22 207 19 00",
+            "region": "europe"
+        },
+        {
+            "address": "San raymundo 24",
+            "id": "Ejemplo2",
+            "image": "https://lh3.googleusercontent.com/6rKu8CCH6nMVKjwpnxDlgf_Sdlc7jk83QBVhoLikzEyibYTZkvNPn-QPCJTv3AkjUYf2dHcE15UvPsrg18xNd4R8_eg3b-yn01yXgQ",
+            "lat": 29.1265112570929, 
+            "lng": -111.03420910455823,
+            "name": "Plomeria Lopez.",
+            "phone": " (202) 346-1100",
+            "region": "north-america"
+        },
+        {
+            "address": "Santa Martha 89",
+            "id": "Parque",
+            "image": "https://lh3.googleusercontent.com/Or6dY4MCUCbMnDv4kG8J7u-QTsWhvbqbAbMN9Vp38aJAS7ec7A39gYddcEGbrwd_veFeZo2phypqc1ABk20PZ9jCVxZfuNGYS7j3LDc",
+            "lat": 29.126491375772474, 
+            "lng": -111.03327407672923,
+            "name": "Parque Santa MArtha",
+            "phone": "+48 (71) 73 41 000",
+            "region": "europe"
+        },
+        {
+            "address": "Gaspar Luken 2",
+            "id": "Eje,plo4",
+            "image": "https://lh3.googleusercontent.com/kmEsDEYzbMlluwDPYkeEEBpAvL9MJbXZR3hD3uettOqE8T7lbXvV508j4d4QngB7iwYZa8YYlXiVnGWfZ4ZvTJbputGXsfxrLGhD3tI",
+            "lat": 29.126275994554817, 
+            "lng": -111.03439686876732,
+            "name": "Domotica",
+            "phone": "+41 44 668 18 00",
+            "region": "europe"
+        }
+    ],
+    "regions": [
+        {
+            "coords": {
+                "lat": 2.9660291,
+                "lng": 1.3271339
+            },
+            "id": "africa-middle-east",
+            "name": "\u00c1frica y Oriente Medio",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 0.0524811,
+                "lng": 127.6560787
+            },
+            "id": "asia-pacific",
+            "name": "Asia Pac\u00edfico",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 46.1352815,
+                "lng": 7.4033438
+            },
+            "id": "europe",
+            "name": "Europa",
+            "zoom": 4.0
+        },
+        {
+            "coords": {
+                "lat": -17.5554497,
+                "lng": -99.2316195
+            },
+            "id": "latin-america",
+            "name": "Latinoam\u00e9rica",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 45.7128252,
+                "lng": -97.1547448
+            },
+            "id": "north-america",
+            "name": "Norteam\u00e9rica",
+            "zoom": 4.0
+        }
+    ]
+}
